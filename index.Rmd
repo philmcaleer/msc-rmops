@@ -1,0 +1,170 @@
+---
+title: "MSc Research Methods of Psychological Science"
+subtitle: "Pre-Course Information"
+author: "Dr Phil McAleer, Programme Lead"
+date: "Last updated: 11/07/2022"
+output: 
+  html_document:
+    toc: true
+    toc_float:
+      collapsed: true
+    toc_depth: 3
+    number_sections: false
+    theme: "readable"
+    highlight: "espresso"
+---
+
+<style>
+h1:not(.title), #TOC > ul.tocify-header > li:first-child {
+  font-weight: bold; 
+  color: green; 
+}
+
+h2, #TOC ul.tocify-subheader[data-tag="2"] > li.tocify-item {
+  color: blue; 
+}
+
+h3, #TOC ul.tocify-subheader[data-tag="3"] > li.tocify-item {
+  color: purple;
+  font-variant: small-caps; 
+}
+
+body{
+  font-family: Arial;
+}
+
+</style>
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# This blog
+
+This short blog contains information regarding the MSc Research Methods of Psychological Science, School of Psychology and Neuroscience, University of Glasgow. The main purpose of the blog is to give information on:
+
+* Creating a Project Proposal
+* Course Structure
+
+Whilst I am out-of-office, this blog will be able to answer a number of potential questions. If you have any further questions then please do send them to me and I will reply on my return, or contact our main psychology teaching admin team on [psych-teachingadmin@glasgow.ac.uk](mailto:psych-teachingadmin@glasgow.ac.uk)
+
+# Project Proposal Information
+
+As part of the application, one aspect we need before offering people an unconditional offer, assuming all other grade checks etc. are met, is a one page proposal for a project that has been agreed between you and a potential supervisor here in our School at Glasgow. The proposal is really just a one page summary and it is really just to make sure that the project you are interested in is achievable here, at Glasgow, in the time frame, and with the given supervisor. In short, we look to avoid having someone join the course based on a project that isn’t feasible; that is not a good basis for the year.  But the proposal doesn't have to be fully laid out in terms of "we will run this number of people, this number of trials, and on each trial they will do this", more it should be "we look to address the relationship between........using a series of rating scales" or "through secondary data analysis of......."  That sort of idea. This might involve redeveloping an idea you have already got but perhaps is just flushed out a bit more with the supervisor to make sure it is feasible, or perhaps developing a new idea with a prospective supervisor. But really, we are just looking for a one page summary that you and the proposed supervisor are in agreement that this is the starting point of the study. And don’t worry as the project is not set in stone and parts will change as the idea develops in the year. Again it is really just to make sure that say for instance you and your supervisor are not planning a study on fMRI when neither has done that before or requires an expensive piece of equipment that we don’t have or a population we don’t have access to.  
+
+**Potential Supervisors**
+
+In terms of supervisors, the staff that are currently available to me to offer as supervisor for yourself are as follows:
+
+*	Dr James Bartlett - [https://www.gla.ac.uk/schools/psychologyneuroscience/staff/jamesbartlett/](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/jamesbartlett/)
+*	Professor Lisa DeBruine - [https://www.gla.ac.uk/schools/psychologyneuroscience/staff/lisadebruine/](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/lisadebruine/)
+*	Dr Kerry Kilborn - [https://www.gla.ac.uk/schools/psychologyneuroscience/staff/kerrykilborn/](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/kerrykilborn/)
+*	Dr Martin Lages - [https://www.gla.ac.uk/schools/psychologyneuroscience/staff/martinlages/](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/martinlages/)
+*	Professor Frank Pollick - [https://www.gla.ac.uk/schools/psychologyneuroscience/staff/frankpollick/](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/frankpollick/)
+
+Please note though that not all supervisors have equal capacity and some may only be able to take one or two students. If however none of the mentioned people would be suitable as supervisors, based on research interests, then please do get in touch with me and I can speak with my team to see what options there are.
+
+**Contacting Supervisors**
+
+Once you have read through the interests of the staff I would suggest sending an email to those that are of interest to you and seeing about arranging a meeting to discuss supervision next year.  One thing I would say is maybe put something like “Potential Supervision for MSc Research Methods of Psychological Science Course” as the subject of the email? Just so it doesn’t get lost in their email. And do feel free to get back to me if you can’t get in touch with them and I can see if I can help. I think my main advice is to be flexible at this stage – often prospective students develop these really strong ideas but that might not be achievable in the time frame or given our facilities, but our supervisors will help with that. Usually, there is some common ground that can be found. 
+
+**Once you have an agreed proposal**
+
+Once you have a proposal with an agreed supervisor, you just send it to me with the Supervisor cc’d and I can let Admissions know and then normally you get changed from a conditional offer to an unconditional offer; again assuming all grades are fine.
+
+# Course Structure
+
+The MSc Research Methods of Psychological Science (RMoPS) is a Taught Postgraduate Course which means that over the course of the year you will take a number of modules alongside completing a dissertation. The modules on offer are deemed as either **core** - meaning that you must take that module - and **optional** - meaning that you can choose to take it or not. You will not take all optional modules and the number you take depends on how you want to tailor your MSc.
+
+The basic structure of the MSc RMoPS is as follows:
+
+* 90 Core Module Credits
+* 30 Optional Module Credits
+* 60 Dissertation Credits
+
+This gives a total of 180 credits, which is what you are required to take for the MSc. It might help now to breakdown those credits a bit more, starting with the Dissertation.
+
+**Dissertation - 60 credits**
+
+The Dissertation (PSYCH5038P) is the main project that you will work on across the year in conjunction with your agreed supervisor. The 60 credits for the Dissertation are made up from two pieces of work:
+
+* a 10 min presentation (10% of the overall grade)
+* a Research Report of up to 11000 words (90% of the overall grade)
+
+The deadlines for the presentation and report submission will be told to you at the start of the academic year but are normally around April for the presentation and August for the final report - please note that the presentation is about the background and methods, and it is not expected that you have results by April. All other schedules and agreements regarding the dissertation are made between you and your supervisor.
+
+**Core Modules - 90 credits**
+
+The core modules that you have to take as part of the MSc are as follows:
+
+* Data Skills for Reproducible Research (PSYCH5077) - 20 credits
+* Statistics and Research Design (PSYCH5020) - 20 credits
+* Qualitative Research Methods (PSYCH5104P) - 20 credits
+* Professional Skills (PSYCH5017) - 20 credits
+* Research Methods in Cognitive Science (PSYCH5018) - 10 credits
+
+**Optional Modules - 30 credits**
+
+You must take optional modules that tally to 30 credits (e.g. 3 * 10 credit modules, or 1 * 10 credit module + 1 * 20 credit module). The optional modules are as follows:
+
+* Cognitive Brain Imaging Methods (PSYCH5022) - 20 credits
+* Social Robotics (PSYCH5090) - 20 credits
+* From Visual Awareness to Free Will (PSYCH5094) - 10 credits
+* Transdisciplenary Team Science (PSYCH5101) - 10 credits
+* Formal Models and Quantitative Methods for Psychology (PSYCH5025) - 10 credits
+* Introduction to Matlab (PSYCH5016) - 10 credits
+* Advanced Perception and Cognition (PSYCH5021) - 20 credits
+* Virtual Reality in Psychology Teaching (PSYCH5105)- 20 credits
+
+Please note: 
+
+1. Some of the option modules might not run if student numbers on the course are below 5 but we will be able to say more on that near the start of the semester.
+2. From the start of August 2022 you should be able to read more about the individual modules through the University of Glasgow Course Catalogue - [https://www.gla.ac.uk/coursecatalogue/](https://www.gla.ac.uk/coursecatalogue/courselist/?code=PSYCH&name=Psychology) - though please do make sure that the Catalogue states 2022-2023 as courses have been updated and previous descriptions may not be accurate.
+
+# Provisional Timetable
+
+The modules are of course split across the year, and really across the first two semesters, and the provisional timetable looks as follows:
+
+**Semester 1**
+
+|Week|w/b|Mon 10am-12pm|Mon 2-4pm|Tues 10am-12pm|Tues 2-4pm|Wed 9-11am|Wed 11am|Thurs 10am-12pm|Fri 10am-12pm|
+|---|---|---|---|---|---|---|---|---|---|
+|1  |19/9|   |Professional Skills|   |Social Robotics|   |   |Qualitative Research Methods|Data Skills for Reproducible Research|
+|2  |26/9|   |Professional Skills|   |Social Robotics|   |Research Project|Qualitative Research Methods|Data Skills for Reproducible Research|
+|3  |3/10|   |Professional Skills|   |Social Robotics|   |   |Qualitative Research Methods|Data Skills for Reproducible Research|
+|4  |10/10|   |Professional Skills|   |Social Robotics|   |   |Qualitative Research Methods|Data Skills for Reproducible Research|
+|5  |17/10|   |Professional Skills|   |Social Robotics|   |Research Project|Qualitative Research Methods|Data Skills for Reproducible Research|
+|6  |24/10|Reading Week|   |   |   |   |   |   |   |
+|7  |31/10|Cognitive Brain Imaging Methods|Professional Skills|Cognitive Brain Imaging Methods|   |From Visual Awareness to Free Will|   |Qualitative Research Methods|Data Skills for Reproducible Research|
+|8  |7/11|Cognitive Brain Imaging Methods|Professional Skills|Cognitive Brain Imaging Methods|   |From Visual Awareness to Free Will|   |Qualitative Research Methods|Data Skills for Reproducible Research|
+|9  |14/11|Cognitive Brain Imaging Methods|Professional Skills|Cognitive Brain Imaging Methods|   |From Visual Awareness to Free Will|Research Project|Qualitative Research Methods|Data Skills for Reproducible Research|
+|10  |21/11|Cognitive Brain Imaging Methods|Professional Skills|Cognitive Brain Imaging Methods|   |From Visual Awareness to Free Will|   |Qualitative Research Methods|Data Skills for Reproducible Research|
+|11  |28/11|Cognitive Brain Imaging Methods|Professional Skills|Cognitive Brain Imaging Methods|   |From Visual Awareness to Free Will|   |Qualitative Research Methods|Data Skills for Reproducible Research|
+
+**Semester 2**
+
+|Week|w/b|Mon 9am-11am|Mon 2-4pm|Tues 10am-12pm|Tues 2-4pm|Wed 11am|Thurs 10am-12pm|Thurs 2pm-4pm|
+|---|---|---|---|---|---|---|---|---|
+|1  |09/1|Formal Models and Quantitative Methods for Psychology|Transdisciplinary Team Science|Advanced Perception and Cognition|Statistics and Research Design|   |Research Methods in Cognitive Science|Virtual Reality in Psychology Research|
+|2  |16/1|Formal Models and Quantitative Methods for Psychology|Transdisciplinary Team Science|Advanced Perception and Cognition|Statistics and Research Design|Research Project|Research Methods in Cognitive Science|Virtual Reality in Psychology Research|
+|3  |23/1|Formal Models and Quantitative Methods for Psychology|Transdisciplinary Team Science|Advanced Perception and Cognition|Statistics and Research Design|   |Research Methods in Cognitive Science|Virtual Reality in Psychology Research|
+|4  |30/1|Formal Models and Quantitative Methods for Psychology|Transdisciplinary Team Science|Advanced Perception and Cognition|Statistics and Research Design|   |Research Methods in Cognitive Science|Virtual Reality in Psychology Research|
+|5  |06/2|Formal Models and Quantitative Methods for Psychology|Transdisciplinary Team Science|Advanced Perception and Cognition|Statistics and Research Design|Research Project|Research Methods in Cognitive Science|Virtual Reality in Psychology Research|
+|6  |13/2|Reading Week|   |   |   |   |   |   |   |
+|7  |20/2|Introduction to Matlab|   |Advanced Perception and Cognition|Statistics and Research Design|   |   |Virtual Reality in Psychology Research|
+|8  |27/2|Introduction to Matlab|   |Advanced Perception and Cognition|Statistics and Research Design|   |   |Virtual Reality in Psychology Research|
+|9  |6/3|Introduction to Matlab|   |Advanced Perception and Cognition|Statistics and Research Design|   |   |Virtual Reality in Psychology Research|
+|10  |13/3|Introduction to Matlab|   |Advanced Perception and Cognition|Statistics and Research Design|   |   |Virtual Reality in Psychology Research|
+|11  |20/3|Introduction to Matlab|   |Advanced Perception and Cognition|Statistics and Research Design|   |   |Virtual Reality in Psychology Research|
+
+# Getting Ahead
+
+Some of the skills you will develop on this course are data wrangling, data management, and visualisation. If you would like to start getting ahead on this skill before the course starts, why not check out the PsyTeachR books that were created by our school to help develop these skills in our students, from Level 1 to MSc. As a student on the MSc RMoPS course, you will do the MSc Repro Research book as one of your taught courses but you are more than welcome to look at any and all of the material. The books can be found here: [https://psyteachr.github.io/](https://psyteachr.github.io/)
+
+# Further Contact
+
+I hope that this information is of use to you but if you have other questions then please get in touch with myself or with our teaching admin team in my absence:  [psych-teachingadmin@glasgow.ac.uk](mailto:psych-teachingadmin@glasgow.ac.uk)
