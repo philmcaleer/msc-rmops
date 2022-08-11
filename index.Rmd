@@ -60,10 +60,8 @@ As part of the application, one aspect we need before offering people an uncondi
 
 In terms of supervisors, the staff that are currently available to me to offer as supervisor for yourself are as follows:
 
-*	Dr James Bartlett - [https://www.gla.ac.uk/schools/psychologyneuroscience/staff/jamesbartlett/](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/jamesbartlett/)
 *	Professor Lisa DeBruine - [https://www.gla.ac.uk/schools/psychologyneuroscience/staff/lisadebruine/](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/lisadebruine/)
 *	Dr Kerry Kilborn - [https://www.gla.ac.uk/schools/psychologyneuroscience/staff/kerrykilborn/](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/kerrykilborn/)
-*	Dr Martin Lages - [https://www.gla.ac.uk/schools/psychologyneuroscience/staff/martinlages/](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/martinlages/)
 *	Professor Frank Pollick - [https://www.gla.ac.uk/schools/psychologyneuroscience/staff/frankpollick/](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/frankpollick/)
 
 Please note though that not all supervisors have equal capacity and some may only be able to take one or two students. If however none of the mentioned people would be suitable as supervisors, based on research interests, then please do get in touch with me and I can speak with my team to see what options there are.
@@ -103,7 +101,7 @@ The core modules that you have to take as part of the MSc are as follows:
 
 * Data Skills for Reproducible Research (PSYCH5077) - 20 credits
 * Statistics and Research Design (PSYCH5020) - 20 credits
-* Qualitative Research Methods (PSYCH5104P) - 20 credits
+* Qualitative Research Methods (SPS5037) - 20 credits
 * Professional Skills (PSYCH5017) - 20 credits
 * Research Methods in Cognitive Science (PSYCH5018) - 10 credits
 
